@@ -1,0 +1,60 @@
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.AssemblyInfo.cs
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.RazorAssemblyInfo.cache
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.RazorAssemblyInfo.cs
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\appsettings.json
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Fitness_ App.staticwebassets.runtime.json
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Fitness_ App.exe
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Fitness_ App.deps.json
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Fitness_ App.runtimeconfig.json
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Fitness_ App.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Fitness_ App.pdb
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Dapper.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\staticwebassets\msbuild.Fitness_ App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\staticwebassets\msbuild.build.Fitness_ App.props
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fitness_ App.props
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fitness_ App.props
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\scopedcss\bundle\Fitness_ App.styles.css
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\scopedcss\projectbundle\Fitness_ App.bundle.scp.css
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.csproj.CopyComplete
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\refint\Fitness_ App.dll
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.pdb
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\Fitness_ App.genruntimeconfig.cache
+C:\Users\Home\Desktop\Repos\Fitness_ App\obj\Debug\net6.0\ref\Fitness_ App.dll

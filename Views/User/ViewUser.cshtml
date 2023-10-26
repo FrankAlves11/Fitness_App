@@ -1,0 +1,31 @@
+﻿@model User
+
+<h3>@Model.Name Profile </h3>
+    
+
+<table class = "table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Weight</th>
+       
+    </tr>
+    <tr>
+        <td>@Model.ID</td>
+        <td>@Model.Name</td>
+        <td>@Model.Weight</td>
+    </tr>
+</table>
+
+<div style="display: block">
+    <a href="/User/UpdateUser/@Model.ID">Update @Model.Name</a> 
+</div>
+
+<div style="display: block">
+
+    @using (Html.BeginForm("DeleteUser", "User", "Post"))
+    {
+        <input type="hidden" asp-for="ID" value="@Model.ID" />
+        <input type="submit" onclick="return confirm('Are you sure?')" value="Delete @Model.Name" />
+    }
+</div>

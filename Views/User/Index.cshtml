@@ -1,0 +1,35 @@
+﻿@model IEnumerable<User>
+
+<h2>User</h2>
+
+<div style="display: block">
+    <a href="/User/InsertUser/">Create a New User</a>
+</div>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Weight</th>
+        <th>Height</th>
+        <th>Gender</th>
+        <th>Workout</th>
+        <th>Nutrition</th>
+    </tr>
+
+    @foreach (var User in @Model)
+    {
+        <tr>
+            <td><a href =/User/ViewUser/@User.ID>@User.ID</a></td>
+            <td>@User.Name</td>
+            <td>@User.Age</td>
+            <td>@User.Weight</td>
+            <td>@User.Height</td>
+            <td>@User.Gender</td>
+            <td>@User.Workout</td>
+            <td>@User.Nutrition</td>
+        </tr>
+    }
+
+</table>
