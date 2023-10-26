@@ -13,7 +13,8 @@ namespace Fitness__App.Models
         public string Gender { get; set; }
         public string Workout { get; set; }
         public string Nutrition { get; set; }
-        public IEnumerable<Category> Categories { get; set; }
+
+      
 
 
 

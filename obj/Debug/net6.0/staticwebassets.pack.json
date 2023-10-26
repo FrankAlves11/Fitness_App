@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\FitnessApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Home\\Desktop\\Repos\\Fitness_App\\wwwroot\\css\\Images\\photo-1593079831268-3381b0db4a77.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\photo-1593079831268-3381b0db4a77.jpg"
+    },
+    {
       "Id": "C:\\Users\\Home\\Desktop\\Repos\\Fitness_App\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

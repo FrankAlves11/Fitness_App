@@ -4,7 +4,7 @@ html {
 
 @media (min-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 25px;
   }
 }
 
@@ -15,4 +15,24 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: black;
+  color: white;
+}
+
+a {
+    color: white;
+}
+
+#homeImg {
+    height: 1000px;
+    width: 1300px;
+    border-radius: 25px;
+}
+
+table {
+    color: white;
+}
+
+h1, h2, table, ul, p, a, * {
+    font-family: "Teko", sans-serif;
 }

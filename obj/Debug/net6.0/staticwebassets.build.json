@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s4PvuK53yuGzyUO5sYnl8HxUMc7bc1mxQowvO/cfW4E=",
+  "Hash": "UPxmTN31Zz/fwUElhN4J3t5Hgrde7dCClK6jv2e9Qrg=",
   "Source": "FitnessApp",
   "BasePath": "_content/FitnessApp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Home\\Desktop\\Repos\\Fitness_App\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FitnessApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Home\\Desktop\\Repos\\Fitness_App\\wwwroot\\css\\Images\\photo-1593079831268-3381b0db4a77.jpg",
+      "SourceId": "FitnessApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Home\\Desktop\\Repos\\Fitness_App\\wwwroot\\",
+      "BasePath": "_content/FitnessApp",
+      "RelativePath": "css/Images/photo-1593079831268-3381b0db4a77.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Images\\photo-1593079831268-3381b0db4a77.jpg"
     },
     {
       "Identity": "C:\\Users\\Home\\Desktop\\Repos\\Fitness_App\\wwwroot\\css\\site.css",

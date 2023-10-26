@@ -45,21 +45,22 @@ namespace Fitness__App.Controllers
         }
 
         public IActionResult UpdateUserToDatabase(User user)
-        {
+        {      
+
             repo.UpdateUser(user);
 
             return RedirectToAction("ViewUser", new { id = user.ID });
         }
 
-        public IActionResult InsertUserToDatabase(User name)
+        public IActionResult InsertUserToDatabase(User user)
         {
-            repo.InsertUser(name);
+            repo.InsertUser(user);
             return RedirectToAction("Index");
         }
 
-        public IActionResult InsertUser()
+        public IActionResult InsertUser(User user)
         {
-            var user = new User();
+            
             return View(user); 
         }
 
