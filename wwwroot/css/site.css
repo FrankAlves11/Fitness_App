@@ -35,4 +35,5 @@ table {
 
 h1, h2, table, ul, p, a, * {
     font-family: "Teko", sans-serif;
+    color: white;
 }
